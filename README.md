@@ -1,5 +1,7 @@
 # aerolab-challenge
 
+Project made with Vue 3
+
 ## Project setup
 ```
 npm install
